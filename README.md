@@ -37,3 +37,5 @@ MySQL
 Versão Atual
 
 1.0
+
+Última atualização: Junho/2026
